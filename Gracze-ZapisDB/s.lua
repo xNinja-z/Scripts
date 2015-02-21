@@ -1,6 +1,6 @@
 --[[Autor:Laysiks]]--
 --[[Zakaz zmiany autora]]--
---[[Zezwolenie na małe edycj]]--
+--[[Zezwolenie na małe edycje]]--
 
 conn = dbConnect("sqlite","gracze.db") --Łączenie z bazą danych w pliku gracze.db, który się utworzy sam po włączeniui skryptu
 if conn then
