@@ -1,0 +1,2 @@
+--[[Autor:Laysiks]]--
+--[[Zakaza zmiany autora]]--
