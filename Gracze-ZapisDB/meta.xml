@@ -1,0 +1,6 @@
+<meta>
+  <info author="Laysiks" name="Zapis Graczy w DB" version="1.0.0"/>
+  <script src="s.lua" type="server"/>
+  <script src="c.lua" type="client"/>
+  <oop>true</oop>
+</meta>
