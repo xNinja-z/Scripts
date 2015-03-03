@@ -32,7 +32,7 @@ addEventHandler("onPlayerLogin",getRootElement(),
 			source:setArmor(row["armor"])     --Zmiana armora/pancerza gracza
 			source:setModel(row["skin"])      --Zmiana skina gracza
 			source:setPosition(row["posx"],row["posy"],row["posz"]) --Zmiana ostatniej pozycji gracza
-			source:setWanted(row["wanted"]) --Zmiana ilości gwiazdek -- Koniec OOP
+			source:setWantedLevel(row["wanted"]) --Zmiana ilości gwiazdek -- Koniec OOP
 		end
 	end
 end
